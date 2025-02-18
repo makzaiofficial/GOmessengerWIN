@@ -23,7 +23,7 @@ GOmessenger WIN64
 Скопируйте исходный код и подготовьте библиотеки
 Откройте командную строку x64 Native Tools для VS 2022.bat, перейдите в BuildPath и запустите
 
-git clone --recursive https://github.com/makzaiofficial/GOmessengerWIN/GOmessengerWIN.git
+git clone --recursive [https://github.com/makzaiofficial/GOmessengerWIN/GOmessengerWIN.git](https://github.com/makzaiofficial/GOmessengerWIN.git)
 tdesktop\GOmessenger\build\prepare\win.bat
 Создайте проект
 Перейдите в BuildPath\tdesktop\GOmessenger и запустите (используя свой api_id и api_hash)
